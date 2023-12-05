@@ -8,6 +8,6 @@ When you are ready to start your first project with this library, follow folow t
 
   1. Initialize the submodules
      ```
-     git submodule init
+     git submodule update --init
      ```
   1. Build your project: `idf.py build`
